@@ -1,2 +1,3 @@
 # Nikhil-Demo
-This is my GitHub Repository.
+This is my Git Repository.
+Nikhil Kumar
